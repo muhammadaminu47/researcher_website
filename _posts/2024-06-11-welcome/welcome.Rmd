@@ -1,0 +1,9 @@
+---
+title: "Welcome"
+author: "Dr. John Doe"
+date: "2024-06-01"
+---
+
+Welcome to my researcher webpage. Here you will find information about my research and publications.
+
+![My Research Image](assets/images/output.png)

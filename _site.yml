@@ -1,0 +1,9 @@
+name: "Researcher Webpage"
+title: "Dr. MAminu"
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Welcome"
+      href: posts/welcome.html
